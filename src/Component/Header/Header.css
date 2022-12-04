@@ -1,0 +1,12 @@
+nav a {
+    padding: 10px 40px;
+    margin: 20px 10px;
+    background-color: peru;
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.active {
+    background-color: bisque;
+    color: black
+}
